@@ -1,4 +1,4 @@
-= Cheatsheet for Data Mining
+# Cheatsheet for Data Mining
 Ondrej Skopek 2017
 
 Adapted from:
